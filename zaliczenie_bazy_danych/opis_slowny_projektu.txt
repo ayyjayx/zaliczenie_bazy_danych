@@ -1,0 +1,3 @@
+projekt bazy danych biblioteki szkolnej
+baza przechowuje dane dotyczacych wypozyczen, dostepnych ksiazek i ich autorow oraz wydawnictwa, dane uczniow
+kontroluje ktory uczen i kiedy wypozycza jaka ksiazke oraz kiedy ja zwrocil
