@@ -33,7 +33,7 @@ CREATE TABLE uczen(
   FOREIGN KEY(id_wydawnictwa) REFERENCES Wydawnictwo(id_wydawnictwa));
   
 CREATE TABLE Wypozyczenie(
-  id_wypozyczenia INT AUTO_INCREMENT PRIMARY KEY,
+  id_wypozyczenia INT PRIMARY KEY AUTO_INCREMENT,
   id_ksiazki INT,
   id_autora INT,
   id_gatunku INT,
